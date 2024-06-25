@@ -1,0 +1,24 @@
+.right-boxes{
+    display:flex;
+    flex-direction: column;
+}
+.passengers {
+    display: flex;
+    flex-wrap: wrap;
+}
+.passenger-group {
+    flex-wrap: wrap;
+}
+.passenger-group2 {
+    margin-top: 30px;
+    margin-left: 50px;
+    flex-wrap: wrap;
+}
+.passenger-group2 button{
+    margin-right: 75px;
+    padding: 5px 10px;
+    border: 1px solid #000000;
+    /* margin-right:140px; */
+    width:100px;
+    height: 60px;
+}
